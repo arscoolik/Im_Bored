@@ -1,1 +1,1 @@
-<?php include_once(“qr.html”); ?>
+<?php include_once(“home.html”); ?>
