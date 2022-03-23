@@ -1,1 +1,248 @@
-rea
+<!DOCTYPE html>
+<!-- saved from url=(0035)https://habr.com/ru/sandbox/168727/ -->
+<html lang="ru"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+  
+  <meta name="viewport" content="width=device-width,initial-scale=1.0,viewport-fit=cover">
+  <meta name="referrer" content="unsafe-url">
+  <title>Покупка аккаунта нетфликс / Хабр</title>
+  <style>
+    /* cyrillic-ext */
+    @font-face {
+      font-family: 'Fira Sans';
+      font-style: normal;
+      font-weight: 500;
+      font-display: swap;
+      src: url(https://fonts.gstatic.com/s/firasans/v11/va9B4kDNxMZdWfMOD5VnZKveSxf6TF0.woff2) format('woff2');
+      unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+    }
+
+    /* cyrillic */
+    @font-face {
+      font-family: 'Fira Sans';
+      font-style: normal;
+      font-weight: 500;
+      font-display: swap;
+      src: url(https://fonts.gstatic.com/s/firasans/v11/va9B4kDNxMZdWfMOD5VnZKveQhf6TF0.woff2) format('woff2');
+      unicode-range: U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+    }
+
+    /* latin-ext */
+    @font-face {
+      font-family: 'Fira Sans';
+      font-style: normal;
+      font-weight: 500;
+      font-display: swap;
+      src: url(https://fonts.gstatic.com/s/firasans/v11/va9B4kDNxMZdWfMOD5VnZKveSBf6TF0.woff2) format('woff2');
+      unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+    }
+
+    /* latin */
+    @font-face {
+      font-family: 'Fira Sans';
+      font-style: normal;
+      font-weight: 500;
+      font-display: swap;
+      src: url(https://fonts.gstatic.com/s/firasans/v11/va9B4kDNxMZdWfMOD5VnZKveRhf6.woff2) format('woff2');
+      unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+    }
+
+    /* non-breaking hyphen */
+    @font-face {
+      font-family: 'Fira Sans';
+      font-style: normal;
+      font-weight: 500;
+      font-display: swap;
+      src: url(https://fonts.gstatic.com/l/font?kit=KFOlCnqEu92Fr1MmEU9vBh0_IsHAlmrO6g&skey=ee881451c540fdec&v=v29) format('woff2');
+      unicode-range: U+02011;
+    }
+  </style>
+  <link rel="preload" href="./Покупка аккаунта нетфликс _files/chunk-vendors.e7843cc0.css" as="style"><link rel="preload" href="./Покупка аккаунта нетфликс _files/chunk-vendors.4fd3519b.js.Без названия" as="script"><link rel="preload" href="./Покупка аккаунта нетфликс _files/app.5145880b.css" as="style"><link rel="preload" href="./Покупка аккаунта нетфликс _files/app.f7efe64f.js.Без названия" as="script"><link rel="preload" href="./Покупка аккаунта нетфликс _files/page-article.16d77c62.css" as="style"><link rel="preload" href="./Покупка аккаунта нетфликс _files/page-article.877ff13f.js.Без названия" as="script"><link rel="preload" href="./Покупка аккаунта нетфликс _files/page-article_sandbox_user-articles-subpages.0de70b5e.css" as="style"><link rel="preload" href="./Покупка аккаунта нетфликс _files/page-article_sandbox_user-articles-subpages.d9b13fe9.js.Без названия" as="script">
+  <link rel="stylesheet" href="./Покупка аккаунта нетфликс _files/chunk-vendors.e7843cc0.css"><link rel="stylesheet" href="./Покупка аккаунта нетфликс _files/app.5145880b.css"><link rel="stylesheet" href="./Покупка аккаунта нетфликс _files/page-article.16d77c62.css"><link rel="stylesheet" href="./Покупка аккаунта нетфликс _files/page-article_sandbox_user-articles-subpages.0de70b5e.css">
+  <script async="" src="./Покупка аккаунта нетфликс _files/tag.js.Без названия"></script><script>window.i18nFetch = new Promise((res, rej) => {
+          const xhr = new XMLHttpRequest();
+          xhr.open('GET', '/js/i18n/ru-compiled.5e21c2134d370c71dd88f491e39368f2.json');
+          xhr.responseType = 'json';
+          xhr.onload = function(e) {
+            if (this.status === 200) {
+              res({ru: xhr.response});
+            } else {
+              rej(e);
+            }
+          };
+          xhr.send();
+        });</script>
+  
+  <script data-vue-meta="ssr" type="application/ld+json" data-vmid="ldjson-schema">null</script>
+  <script src="./Покупка аккаунта нетфликс _files/gpt.js.Без названия" async=""></script>
+  <style>.grecaptcha-badge{visibility: hidden;}</style>
+  <meta name="habr-version" content="2.68.0">
+  <meta name="csrf-token" content="YQPqW8qx-4qvKcknDtUbLRZwDL2ZXPRLqquE">
+  <meta data-vue-meta="ssr" property="fb:app_id" content="444736788986613"><meta data-vue-meta="ssr" property="fb:pages" content="472597926099084"><meta data-vue-meta="ssr" name="twitter:card" content="summary_large_image"><meta data-vue-meta="ssr" name="twitter:site" content="@habr_com"><meta data-vue-meta="ssr" property="og:site_name" content="Хабр" data-vmid="og:site_name"><meta data-vue-meta="ssr" property="og:url" content="https://habr.com/ru/sandbox/168727/" data-vmid="og:url"><meta data-vue-meta="ssr" property="og:title" content="Покупка аккаунта нетфликс" data-vmid="og:title"><meta data-vue-meta="ssr" name="twitter:title" content="Покупка аккаунта нетфликс" data-vmid="twitter:title"><meta data-vue-meta="ssr" name="aiturec:title" content="Покупка аккаунта нетфликс" data-vmid="aiturec:title"><meta data-vue-meta="ssr" name="description" content="Данная политическая ситуация оставила нас без наших любимых и сериалов. Онлайн кинотеатр Netflix 9 марта 2022 сообщил о том, что временно приостанавливает свою работу в России. Но что же делать нам,..." data-vmid="description"><meta data-vue-meta="ssr" itemprop="description" content="Данная политическая ситуация оставила нас без наших любимых и сериалов. Онлайн кинотеатр Netflix 9 марта 2022 сообщил о том, что временно приостанавливает свою работу в России. Но что же делать нам,..." data-vmid="description:itemprop"><meta data-vue-meta="ssr" property="og:description" content="Данная политическая ситуация оставила нас без наших любимых и сериалов. Онлайн кинотеатр Netflix 9 марта 2022 сообщил о том, что временно приостанавливает свою работу в России. Но что же делать нам,..." data-vmid="og:description"><meta data-vue-meta="ssr" name="twitter:description" content="Данная политическая ситуация оставила нас без наших любимых и сериалов. Онлайн кинотеатр Netflix 9 марта 2022 сообщил о том, что временно приостанавливает свою работу в России. Но что же делать нам,..." data-vmid="twitter:description"><meta data-vue-meta="ssr" property="aiturec:description" content="Данная политическая ситуация оставила нас без наших любимых и сериалов. Онлайн кинотеатр Netflix 9 марта 2022 сообщил о том, что временно приостанавливает свою работу в России. Но что же делать нам,..." data-vmid="aiturec:description"><meta data-vue-meta="ssr" itemprop="image" content="https://habr.com/share/publication/168727/dcc773bd664657c1eb9b6dcdfa73e3c3/" data-vmid="image:itemprop"><meta data-vue-meta="ssr" property="og:image" content="https://habr.com/share/publication/168727/dcc773bd664657c1eb9b6dcdfa73e3c3/" data-vmid="og:image"><meta data-vue-meta="ssr" property="og:image:width" content="1200" data-vmid="og:image:width"><meta data-vue-meta="ssr" property="og:image:height" content="630" data-vmid="og:image:height"><meta data-vue-meta="ssr" property="aiturec:image" content="https://habr.com/share/publication/168727/dcc773bd664657c1eb9b6dcdfa73e3c3/" data-vmid="aiturec:image"><meta data-vue-meta="ssr" name="twitter:image" content="https://habr.com/share/publication/168727/dcc773bd664657c1eb9b6dcdfa73e3c3/" data-vmid="twitter:image"><meta data-vue-meta="ssr" property="vk:image" content="https://habr.com/share/publication/168727/dcc773bd664657c1eb9b6dcdfa73e3c3/?format=vk" data-vmid="vk:image"><meta data-vue-meta="ssr" property="aiturec:item_id" content="168727" data-vmid="aiturec:item_id"><meta data-vue-meta="ssr" property="aiturec:datetime" content="2022-03-23T21:24:53.000Z" data-vmid="aiturec:datetime"><meta data-vue-meta="ssr" property="og:type" content="article" data-vmid="og:type"><meta data-vue-meta="ssr" property="og:locale" content="ru_RU" data-vmid="og:locale"><meta data-vue-meta="ssr" name="keywords" content="netflix, vpn">
+  <link data-vue-meta="ssr" image_src="image" href="https://habr.com/img/habr_ru.png" data-vmid="image:href"><link data-vue-meta="ssr" href="https://habr.com/ru/sandbox/168727/" rel="canonical" data-vmid="canonical"><link data-vue-meta="ssr" href="https://habr.com/ru/rss/post/168727/?fl=ru" type="application/rss+xml" title="" rel="alternate" name="rss"><link data-vue-meta="ssr" data-vmid="hreflang">
+  <meta name="apple-mobile-web-app-status-bar-style" content="#303b44">
+  <meta name="msapplication-TileColor" content="#629FBC">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="mobile-web-app-capable" content="yes">
+  <link rel="shortcut icon" type="image/png" sizes="16x16" href="https://assets.habr.com/habr-web/img/favicons/favicon-16.png">
+  <link rel="shortcut icon" type="image/png" sizes="32x32" href="https://assets.habr.com/habr-web/img/favicons/favicon-32.png">
+  <link rel="apple-touch-icon" type="image/png" sizes="76x76" href="https://assets.habr.com/habr-web/img/favicons/apple-touch-icon-76.png">
+  <link rel="apple-touch-icon" type="image/png" sizes="120x120" href="https://assets.habr.com/habr-web/img/favicons/apple-touch-icon-120.png">
+  <link rel="apple-touch-icon" type="image/png" sizes="152x152" href="https://assets.habr.com/habr-web/img/favicons/apple-touch-icon-152.png">
+  <link rel="apple-touch-icon" type="image/png" sizes="180x180" href="https://assets.habr.com/habr-web/img/favicons/apple-touch-icon-180.png">
+  <link rel="apple-touch-icon" type="image/png" sizes="256x256" href="https://assets.habr.com/habr-web/img/favicons/apple-touch-icon-256.png">
+  <link rel="apple-touch-startup-image" media="screen and (device-width: 320px) and (device-height: 568px) and (-webkit-device-pixel-ratio: 2) and (orientation: landscape)" href="https://assets.habr.com/habr-web/img/splashes/splash_1136x640.png">
+  <link rel="apple-touch-startup-image" media="screen and (device-width: 375px) and (device-height: 812px) and (-webkit-device-pixel-ratio: 3) and (orientation: landscape)" href="https://assets.habr.com/habr-web/img/splashes/splash_2436x1125.png">
+  <link rel="apple-touch-startup-image" media="screen and (device-width: 414px) and (device-height: 896px) and (-webkit-device-pixel-ratio: 2) and (orientation: landscape)" href="https://assets.habr.com/habr-web/img/splashes/splash_1792x828.png">
+  <link rel="apple-touch-startup-image" media="screen and (device-width: 414px) and (device-height: 896px) and (-webkit-device-pixel-ratio: 2) and (orientation: portrait)" href="https://assets.habr.com/habr-web/img/splashes/splash_828x1792.png">
+  <link rel="apple-touch-startup-image" media="screen and (device-width: 375px) and (device-height: 667px) and (-webkit-device-pixel-ratio: 2) and (orientation: landscape)" href="https://assets.habr.com/habr-web/img/splashes/splash_1334x750.png">
+  <link rel="apple-touch-startup-image" media="screen and (device-width: 414px) and (device-height: 896px) and (-webkit-device-pixel-ratio: 3) and (orientation: portrait)" href="https://assets.habr.com/habr-web/img/splashes/splash_1242x2668.png">
+  <link rel="apple-touch-startup-image" media="screen and (device-width: 414px) and (device-height: 736px) and (-webkit-device-pixel-ratio: 3) and (orientation: landscape)" href="https://assets.habr.com/habr-web/img/splashes/splash_2208x1242.png">
+  <link rel="apple-touch-startup-image" media="screen and (device-width: 375px) and (device-height: 812px) and (-webkit-device-pixel-ratio: 3) and (orientation: portrait)" href="https://assets.habr.com/habr-web/img/splashes/splash_1125x2436.png">
+  <link rel="apple-touch-startup-image" media="screen and (device-width: 414px) and (device-height: 736px) and (-webkit-device-pixel-ratio: 3) and (orientation: portrait)" href="https://assets.habr.com/habr-web/img/splashes/splash_1242x2208.png">
+  <link rel="apple-touch-startup-image" media="screen and (device-width: 1024px) and (device-height: 1366px) and (-webkit-device-pixel-ratio: 2) and (orientation: landscape)" href="https://assets.habr.com/habr-web/img/splashes/splash_2732x2048.png">
+  <link rel="apple-touch-startup-image" media="screen and (device-width: 414px) and (device-height: 896px) and (-webkit-device-pixel-ratio: 3) and (orientation: landscape)" href="https://assets.habr.com/habr-web/img/splashes/splash_2688x1242.png">
+  <link rel="apple-touch-startup-image" media="screen and (device-width: 834px) and (device-height: 1112px) and (-webkit-device-pixel-ratio: 2) and (orientation: landscape)" href="https://assets.habr.com/habr-web/img/splashes/splash_2224x1668.png">
+  <link rel="apple-touch-startup-image" media="screen and (device-width: 375px) and (device-height: 667px) and (-webkit-device-pixel-ratio: 2) and (orientation: portrait)" href="https://assets.habr.com/habr-web/img/splashes/splash_750x1334.png">
+  <link rel="apple-touch-startup-image" media="screen and (device-width: 1024px) and (device-height: 1366px) and (-webkit-device-pixel-ratio: 2) and (orientation: portrait)" href="https://assets.habr.com/habr-web/img/splashes/splash_2048x2732.png">
+  <link rel="apple-touch-startup-image" media="screen and (device-width: 834px) and (device-height: 1194px) and (-webkit-device-pixel-ratio: 2) and (orientation: landscape)" href="https://assets.habr.com/habr-web/img/splashes/splash_2388x1668.png">
+  <link rel="apple-touch-startup-image" media="screen and (device-width: 834px) and (device-height: 1112px) and (-webkit-device-pixel-ratio: 2) and (orientation: portrait)" href="https://assets.habr.com/habr-web/img/splashes/splash_1668x2224.png">
+  <link rel="apple-touch-startup-image" media="screen and (device-width: 320px) and (device-height: 568px) and (-webkit-device-pixel-ratio: 2) and (orientation: portrait)" href="https://assets.habr.com/habr-web/img/splashes/splash_640x1136.png">
+  <link rel="apple-touch-startup-image" media="screen and (device-width: 834px) and (device-height: 1194px) and (-webkit-device-pixel-ratio: 2) and (orientation: portrait)" href="https://assets.habr.com/habr-web/img/splashes/splash_1668x2388.png">
+  <link rel="apple-touch-startup-image" media="screen and (device-width: 768px) and (device-height: 1024px) and (-webkit-device-pixel-ratio: 2) and (orientation: landscape)" href="https://assets.habr.com/habr-web/img/splashes/splash_2048x1536.png">
+  <link rel="apple-touch-startup-image" media="screen and (device-width: 768px) and (device-height: 1024px) and (-webkit-device-pixel-ratio: 2) and (orientation: portrait)" href="https://assets.habr.com/habr-web/img/splashes/splash_1536x2048.png">
+  <link rel="mask-icon" color="#77a2b6" href="https://assets.habr.com/habr-web/img/favicons/apple-touch-icon-120.svg">
+  <link crossorigin="use-credentials" href="https://habr.com/manifest.webmanifest" rel="manifest">
+  <script>window.yaContextCb = window.yaContextCb || []</script>
+  <script src="./Покупка аккаунта нетфликс _files/context.js.Без названия" async=""></script>
+<script data-vue-meta="ssr" onload="window[&#39;e0044d29c024&#39;] = true" src="./Покупка аккаунта нетфликс _files/saved_resource" data-vmid="checklogin"></script></head>
+<body data-new-gr-c-s-check-loaded="14.1052.0" data-gr-ext-installed="">
+
+
+<div id="app" data-async-called="true"><div class="tm-layout__wrapper"><!----> <div></div> <!----> <header class="tm-header"><div class="tm-page-width"><div class="tm-header__container"><!----> <span class="tm-header__logo-wrap"><a href="https://habr.com/ru/" class="tm-header__logo tm-header__logo_ru"><svg height="16" width="16" class="tm-svg-img tm-header__icon"><title>Хабр</title> <use xlink:href="/img/habr-logo-ru.svg#logo"></use></svg></a> <span class="tm-header__beta-sign" style="display:none;">β</span></span> <div class="tm-dropdown tm-header__projects"><div class="tm-dropdown__head"><button class="tm-header__dropdown-toggle"><svg height="16" width="16" class="tm-svg-img tm-header__icon tm-header__icon_dropdown"><title>Открыть список</title> <use xlink:href="/img/megazord-v25.4b679db1.svg#arrow-down"></use></svg></button></div> <!----></div> <a href="https://habr.com/ru/sandbox/start/" class="tm-header__become-author-btn">
+            Как стать автором
+          </a> <!----> <a href="https://effect.habr.com/a/QLRMOjLjouwrxOcMh1F36nXjItLPVkB4iB2LxNQYuDm7tFkYfZRuijS9wQ5lO9eguxnHZb5FG4jsD88XFfgEtprOos_EQDu8L7yXb36UCHda-FjjrAinIIrQ5g079h_X8jmtFK5xXg" target="_blank" class="tm-top-link" style="color: rgb(255, 255, 153);">
+  Формула образования: что нужно сложить, чтобы счастливо учиться
+</a> <!----></div></div></header> <div class="tm-layout"><div class="tm-page-progress-bar"></div> <div data-menu-sticky="true" class="tm-base-layout__header tm-base-layout__header_is-sticky"><div class="tm-page-width"><div class="tm-base-layout__header-wrapper"><div class="tm-main-menu"><div class="tm-main-menu__section"><nav class="tm-main-menu__section-content"><a href="https://habr.com/ru/feed/" class="tm-main-menu__item">
+        Моя лента
+      </a> <a href="https://habr.com/ru/flows/all" class="tm-main-menu__item">
+        Все потоки
+      </a> <a href="https://habr.com/ru/flows/develop/" class="tm-main-menu__item">
+          Разработка
+        </a><a href="https://habr.com/ru/flows/admin/" class="tm-main-menu__item">
+          Администрирование
+        </a><a href="https://habr.com/ru/flows/design/" class="tm-main-menu__item">
+          Дизайн
+        </a><a href="https://habr.com/ru/flows/management/" class="tm-main-menu__item">
+          Менеджмент
+        </a><a href="https://habr.com/ru/flows/marketing/" class="tm-main-menu__item">
+          Маркетинг
+        </a><a href="https://habr.com/ru/flows/popsci/" class="tm-main-menu__item">
+          Научпоп
+        </a></nav></div></div> <div class="tm-header-user-menu tm-base-layout__user-menu"><a href="https://habr.com/ru/search/" class="tm-header-user-menu__item tm-header-user-menu__search"><svg height="24" width="24" class="tm-svg-img tm-header-user-menu__icon tm-header-user-menu__icon_search tm-header-user-menu__icon_dark"><title>Поиск</title> <use xlink:href="/img/megazord-v25.4b679db1.svg#search"></use></svg></a> <div class="tm-tracker-dropdown tm-header-user-menu__item"><div class="tm-dropdown"><div class="tm-dropdown__head"><button title="Трекер" class="tm-tracker-dropdown__notifications-button tm-tracker-dropdown__button_dark"><!----> <svg height="24" width="24" class="tm-svg-img tm-tracker-dropdown__icon"><title>Трекер</title> <use xlink:href="/img/megazord-v25.4b679db1.svg#notifications"></use></svg></button></div> <!----></div></div> <!----> <div class="tm-header-user-menu__item tm-header-user-menu__write"><a href="https://habr.com/ru/publication/new/" class=""><svg height="24" width="24" class="tm-svg-img tm-header-user-menu__icon tm-header-user-menu__icon_write tm-header-user-menu__icon_dark"><title>Написать публикацию</title> <use xlink:href="/img/megazord-v25.4b679db1.svg#write"></use></svg></a> <!----></div> <div class="tm-header-user-menu__item tm-header-user-menu__user_desktop"><div class="tm-dropdown"><div class="tm-dropdown__head"><div data-test-id="menu-toggle-user" class="tm-entity-image"><svg height="32" width="32" class="tm-svg-img tm-image-placeholder tm-image-placeholder_green"><!----> <use xlink:href="/img/megazord-v25.4b679db1.svg#placeholder-user"></use></svg></div> <!----></div> <!----></div> <!----></div> <!----></div></div></div></div> <!----> <div class="tm-page-width"></div> <main class="tm-layout__container"><div data-async-called="true" class="tm-page"><div class="tm-page-width"><!----> <div class="tm-page__wrapper"><div class="tm-page__main tm-page__main_has-sidebar"><div class="pull-down"><div class="pull-down__header" style="height:0px;"><div class="pull-down__content" style="bottom:10px;"><svg height="24" width="24" class="tm-svg-img pull-down__arrow"><title>Обновить</title> <use xlink:href="/img/megazord-v25.4b679db1.svg#pull-arrow"></use></svg></div></div> <div class="tm-sandbox-article__body"><article class="tm-sandbox-article__content tm-sandbox-article__content_inner"><div class="tm-article-snippet tm-sandbox-article__snippet"><div class="tm-article-snippet__meta-container"><div class="tm-article-snippet__meta"><!----> <span class="tm-article-snippet__datetime-published"><time datetime="2022-03-23T21:24:53.000Z" title="2022-03-24, 00:24">сегодня в 00:24</time></span></div> <div class="tm-article-snippet__controls"><!----> <a href="https://habr.com/ru/sandbox/edit/168727/" class="tm-article-snippet__edit"><svg height="20" width="20" class="tm-svg-img icon_edit-post"><title>Редактировать</title> <use xlink:href="/img/megazord-v25.4b679db1.svg#edit"></use></svg></a> <!----></div></div> <h1 class="tm-article-snippet__title tm-article-snippet__title_h1"><span>Покупка аккаунта нетфликс</span></h1> <div class="tm-article-snippet__hubs"><span class="tm-article-snippet__hubs-item"><a href="https://habr.com/ru/hub/DIY/" class="tm-article-snippet__hubs-item-link"><span>DIY или Сделай сам</span> <!----></a></span></div> <div class="tm-article-snippet__labels"><div class="tm-article-snippet__label tm-article-snippet__label_variant-moderationPending"><span>
+        Ожидает модерации
+      </span></div></div> <!----> <!----></div> <!----> <div data-gallery-root="" class="tm-article-body"><div></div> <div id="post-content-body"><div><div class="article-formatted-body article-formatted-body_version-2"><div xmlns="http://www.w3.org/1999/xhtml"><p>Данная политическая ситуация оставила нас без наших любимых и сериалов. Онлайн кинотеатр Netflix 9 марта 2022 сообщил о том, что временно приостанавливает свою работу в России. Но что же делать нам, обычным пользователям? Не отказываться же от всех тех видео, к которым мы уже так привыкли.</p><p>Во многих телеграм каналах сейчас продают подписки на аккаунты Netflix дешевле, чем они стоят(или) в России. Звучит заманчиво?-Нет. Обычно Вам продают не совсем подписку на Netflix, а аккаунт, в котором есть активная подписка. В чём проблема? </p><ul><li><p>Вы не имеете доступа к почте к которой подключён аккаунт(то есть, если что, не можете восстановить пароль)</p></li><li><p>Никто не гарантирует, что вы единственный, у кого есть доступ к этому аккаунту. Кто-то может сменить пароль и вы всё потеряете.</p></li><li><p>Вы не знаете откуда эти аккаунт. Он может быть украден, куплен на ворованные кредитки. Обычно это не грозит Вам никаким наказанием, но факт остаётся фактом.</p></li></ul><p>Но есть решение, как продолжить смотреть Ваши любимые фильмы. Способ слегка изощрённый, но рабочий</p><hr><h2>Установка VPN</h2><p>Вам нужно будет изменить локацию Вашего устройства на Турцию. Почему Турция? В Турции есть возможность оплачивать Netflix подарочным кодом - этим мы сегодня и будем пользоваться. Так что если у Вас уже есть VPN который позволяет Вам поменять локацию на Турцию, илии Вам повезло и вы уже в Турции, то пропускайте этот шаг.</p><p>Данный урок будет расписан для дополнение для работы с Google Chrome на Windows 10. Такие же действия могут сработать с другими браузерами и ОС, но я не могу этого обещать. Если Вы с телефона, я бы рекомендовал скачать VPN Master и взять там бесплатную подписку на неделю(главное не забудьте отменить после того, как закончите).<br><br>Скачайте <a href="https://windscribe.com/yo/d3nh7vmf" rel="noopener noreferrer nofollow">Windscribe VPN</a>. Процесс установки весьма интуитивный. В конце мы получаете простой интерфейс который позволяет одним касанием включить VPN. Они дают 10 Гб бесплатного трафика в месяц, этого Вам точно хватит, чтобы настроить свой аккаунт в Netflix. Открывая приложение/дополнение нажимаете на значок "Locations Menu" и листаете вниз пока не увидите Турцию - Вам нужна она.<br>Всё, компьютер чувствует себя на отдыхе осталось и Вам отдохнуть.</p><h2>Получение кода</h2><p>Наверное многие уже задумывались, почему именно Турция? Почему она так важна? Турция не только является странной с самой дешёвой подпиской, но так же страной где можно оплатить подписку не картой, а подарочным кодом.<br>Если у Вас есть рабочая Visa/Mastercard можете попробовать оплатить картой, но платёжная система Netflix  замечает, что карта не турецкая и сообщает что произошла <em>"непредвиденная ошибка"<br></em>Остаётся вариант с подарочным кодом, его тоже не так просто достать, но ребята из <a href="https://t.me/netflix_buyer_bot" rel="noopener noreferrer nofollow">@netflix_buyer_bot</a> собрались и сделали бота удобного, чтобы эти коды можно было получать. Всё быстро, проверенно и гарантировано. Просто напишите, выберите удобный Вам тариф, оплатите, и Вам пришлют код.                                                                           Базовая подписка в турецком Netflix стоит 27 лир в месяц. Промокоды бывают только на 75 и на 100 лир (то есть почти 3 и 4 месяца соответсвенно). Промокоды продают по 1000 и 1200 рублей соответсвенно. То есть подписка получается по 300-330~  рублей в месяц, что гораздо выгоднее 599, которые предлагал русский Netflix.</p><h2>Подключение аккаунта</h2><p>Откройте <a href="https://www.netflix.com/" rel="noopener noreferrer nofollow">Netflix</a>, создайте аккаунт, введя своё имя и почту. При оплате выберите оплату с помощью кода и в данном Вам окне введите код, который Вам прислал бот. <br>Всё!<br>Пару нажатий и Вы можете начать смотреть "Бумажный дом" и "Ведьмак". Хорошего просмотра!</p></div></div></div> <div class="v-portal" style="display:none;"></div></div> <!----> <!----></div> <div class="tm-article-body__tags"><div class="tm-separated-list tm-article-body__tags-links"><span class="tm-separated-list__title">Теги:</span> <ul class="tm-separated-list__list"><li class="tm-separated-list__item"><a href="https://habr.com/ru/search/?target_type=posts&amp;order=relevance&amp;q=%5Bnetflix%5D" class="tm-tags-list__link">netflix</a></li><li class="tm-separated-list__item"><a href="https://habr.com/ru/search/?target_type=posts&amp;order=relevance&amp;q=%5Bvpn%5D" class="tm-tags-list__link">vpn</a></li></ul></div> <div class="tm-separated-list tm-article-body__tags-links"><span class="tm-separated-list__title">Хабы:</span> <ul class="tm-separated-list__list"><li class="tm-separated-list__item"><a href="https://habr.com/ru/hub/DIY/" class="tm-hubs-list__link">
+    DIY или Сделай сам
+  </a></li></ul></div></div> <div class="tm-sandbox-article-footer"><div class="tm-sandbox-article-footer__buttons"><!----> <!----></div> <!----></div></article></div> <div class="tm-sandbox-article__additional-blocks"><div adfox-id="164725660339535756" params="[object Object]" class="tm-ad-banner__container tm-sandbox-article__banner"><!----> <div id="articleBottomBanner4" class="tm-ad-banner tm-ad-banner_variant-leaderboard"></div></div> <div class="tm-notice tm-notice_neutral"><!----> <div class="tm-notice__inner"><!----> <div class="tm-notice__content"><span>Данная статья не&nbsp;подлежит комментированию, поскольку её&nbsp;автор ещё не&nbsp;является <a href="https://habr.com/docs/help/registration/#standard">полноправным</a> участником сообщества. Вы&nbsp;сможете связаться с&nbsp;автором только после того, как он&nbsp;получит <a href="https://habr.com/docs/help/registration/#invite">приглашение</a> от&nbsp;кого-либо из&nbsp;участников сообщества. До&nbsp;этого момента его username будет скрыт псевдонимом.</span></div></div></div></div></div></div> <div class="tm-page__sidebar"><div show-ads="true" class="tm-layout-sidebar"><div class="tm-layout-sidebar__placeholder_stick-top"></div> <div class="tm-sexy-sidebar tm-sexy-sidebar_stick-top" style="margin-top: 0px;"><aside class="tm-block tm-block_spacing-bottom"><header class="tm-block__header"><h2 class="tm-block__title">О песочнице</h2> <!----></header> <div class="tm-block__body"><div class="await-about-text">Это <a href="https://habr.com/docs/help/sandbox/" target="_blank">«Песочница»</a> — раздел, в который попадают дебютные посты пользователей, желающих стать полноправными участниками сообщества.<br><br> Если у вас есть <a href="https://habr.com/docs/help/registration/#invite" target="_blank">приглашение</a>, отправьте его автору понравившейся публикации — тогда её смогут прочитать и обсудить все остальные пользователи Хабра. <br><br>Чтобы исключить предвзятость при оценке, все публикации анонимны, псевдонимы показываются случайным образом.</div></div> <!----></aside> <aside class="tm-block tm-block_spacing-bottom"><header class="tm-block__header"><h2 class="tm-block__title">О модерации</h2> <!----></header> <div class="tm-block__body"><div class="moderation-text"><p>Не надо пропускать:</p><ul><li>рекламные и&nbsp;PR-публикации</li><li>вопросы и&nbsp;просьбы (для них есть <a href="https://qna.habr.com/" target="_blank" rel=" noopener">Хабр Q&amp;A</a>);</li><li>вакансии (используйте <a href="https://career.habr.com/" target="_blank" rel=" noopener">Хабр Карьеру</a>)</li><li>статьи, ранее опубликованные на&nbsp;других сайтах;</li><li>статьи без правильно расставленных знаков препинания, со&nbsp;смайликами, с&nbsp;обилием восклицательных знаков, неоправданным выделением слов и&nbsp;предложений и&nbsp;другим неуместным форматированием текста;</li><li>жалобы на&nbsp;компании и&nbsp;предоставляемые услуги;</li><li>низкокачественные переводы;</li><li>куски программного кода без пояснений;</li><li>односложные статьи;</li><li>статьи, слабо относящиеся к&nbsp;<nobr>IT-тематике</nobr> или не&nbsp;относящиеся к&nbsp;ней вовсе.</li></ul></div></div> <!----></aside> <!----></div></div></div></div></div></div></main> <!----></div> <div class="tm-footer-menu"><div class="tm-page-width"><div class="tm-footer-menu__container"><div class="tm-footer-menu__block"><h3 class="tm-footer-menu__block-title">
+          Ваш аккаунт
+        </h3> <div class="tm-footer-menu__block-content"><ul class="tm-footer-menu__list"><li class="tm-footer-menu__list-item"><a href="https://habr.com/ru/users/Arscoolik/posts/" class="footer-menu__item-link">
+                Профиль
+              </a></li><li class="tm-footer-menu__list-item"><a href="https://habr.com/ru/tracker/" class="footer-menu__item-link">
+                Трекер
+              </a></li><li class="tm-footer-menu__list-item"><a href="https://habr.com/ru/conversations/" class="footer-menu__item-link">
+                Диалоги
+              </a></li><li class="tm-footer-menu__list-item"><a href="https://habr.com/ru/auth/settings/profile/" class="footer-menu__item-link">
+                Настройки
+              </a></li><li class="tm-footer-menu__list-item"><a href="https://habr.com/ru/ppa/" class="footer-menu__item-link">
+                ППА
+              </a></li></ul></div></div><div class="tm-footer-menu__block"><h3 class="tm-footer-menu__block-title">
+          Разделы
+        </h3> <div class="tm-footer-menu__block-content"><ul class="tm-footer-menu__list"><li class="tm-footer-menu__list-item"><a href="https://habr.com/ru/" class="footer-menu__item-link router-link-active">
+                Публикации
+              </a></li><li class="tm-footer-menu__list-item"><a href="https://habr.com/ru/news/" class="footer-menu__item-link">
+                Новости
+              </a></li><li class="tm-footer-menu__list-item"><a href="https://habr.com/ru/hubs/" class="footer-menu__item-link">
+                Хабы
+              </a></li><li class="tm-footer-menu__list-item"><a href="https://habr.com/ru/companies/" class="footer-menu__item-link">
+                Компании
+              </a></li><li class="tm-footer-menu__list-item"><a href="https://habr.com/ru/users/" class="footer-menu__item-link">
+                Авторы
+              </a></li><li class="tm-footer-menu__list-item"><a href="https://habr.com/ru/sandbox/" class="footer-menu__item-link router-link-active">
+                Песочница
+              </a></li></ul></div></div><div class="tm-footer-menu__block"><h3 class="tm-footer-menu__block-title">
+          Информация
+        </h3> <div class="tm-footer-menu__block-content"><ul class="tm-footer-menu__list"><li class="tm-footer-menu__list-item"><a href="https://habr.com/ru/docs/help/" class="footer-menu__item-link">
+                Устройство сайта
+              </a></li><li class="tm-footer-menu__list-item"><a href="https://habr.com/ru/docs/authors/codex/" class="footer-menu__item-link">
+                Для авторов
+              </a></li><li class="tm-footer-menu__list-item"><a href="https://habr.com/ru/docs/companies/corpblogs/" class="footer-menu__item-link">
+                Для компаний
+              </a></li><li class="tm-footer-menu__list-item"><a href="https://habr.com/ru/docs/docs/transparency/" class="footer-menu__item-link">
+                Документы
+              </a></li><li class="tm-footer-menu__list-item"><a href="https://account.habr.com/info/agreement" target="_blank">
+                Соглашение
+              </a></li><li class="tm-footer-menu__list-item"><a href="https://account.habr.com/info/confidential/" target="_blank">
+                Конфиденциальность
+              </a></li></ul></div></div><div class="tm-footer-menu__block"><h3 class="tm-footer-menu__block-title">
+          Услуги
+        </h3> <div class="tm-footer-menu__block-content"><ul class="tm-footer-menu__list"><li class="tm-footer-menu__list-item"><a href="https://docs.google.com/presentation/d/e/2PACX-1vQLwRfQmXibiUlWaRg-BAc38s7oM3lJiaPju7qmdJsp8ysIvZ_G-Npem0njJLMozE2bPHMpDqiI5hhy/pub?start=false&amp;loop=false&amp;delayms=60000&amp;slide=id.g91a03369cd_4_297" target="_blank">
+                Реклама
+              </a></li><li class="tm-footer-menu__list-item"><a href="https://habrastorage.org/storage/stuff/habr/service_price.pdf" target="_blank">
+                Тарифы
+              </a></li><li class="tm-footer-menu__list-item"><a href="https://docs.google.com/presentation/d/e/2PACX-1vQJJds8-Di7BQSP_guHxICN7woVYoN5NP_22ra-BIo4bqnTT9FR6fB-Ku2P0AoRpX0Ds-LRkDeAoD8F/pub?start=false&amp;loop=false&amp;delayms=60000" target="_blank">
+                Контент
+              </a></li><li class="tm-footer-menu__list-item"><a href="https://tmtm.timepad.ru/" target="_blank">
+                Семинары
+              </a></li><li class="tm-footer-menu__list-item"><a href="https://habr.com/ru/megaprojects/" class="footer-menu__item-link">
+                Мегапроекты
+              </a></li></ul></div></div></div></div></div> <div class="tm-footer"><div class="tm-page-width"><div class="tm-footer__container"><!----> <div class="tm-footer__social"><a href="https://www.facebook.com/habrahabr.ru" rel="nofollow noopener noreferrer" target="_blank" class="tm-svg-icon__wrapper tm-social-icons__icon"><svg height="16" width="16" class="tm-svg-img tm-svg-icon"><title>Facebook</title> <use xlink:href="/img/social-icons-sprite.svg#social-logo-facebook"></use></svg></a><a href="https://twitter.com/habr_com" rel="nofollow noopener noreferrer" target="_blank" class="tm-svg-icon__wrapper tm-social-icons__icon"><svg height="16" width="16" class="tm-svg-img tm-svg-icon"><title>Twitter</title> <use xlink:href="/img/social-icons-sprite.svg#social-logo-twitter"></use></svg></a><a href="https://vk.com/habr" rel="nofollow noopener noreferrer" target="_blank" class="tm-svg-icon__wrapper tm-social-icons__icon"><svg height="16" width="16" class="tm-svg-img tm-svg-icon"><title>VK</title> <use xlink:href="/img/social-icons-sprite.svg#social-logo-vkontakte"></use></svg></a><a href="https://telegram.me/habr_com" rel="nofollow noopener noreferrer" target="_blank" class="tm-svg-icon__wrapper tm-social-icons__icon"><svg height="16" width="16" class="tm-svg-img tm-svg-icon"><title>Telegram</title> <use xlink:href="/img/social-icons-sprite.svg#social-logo-telegram"></use></svg></a><a href="https://www.youtube.com/channel/UCd_sTwKqVrweTt4oAKY5y4w" rel="nofollow noopener noreferrer" target="_blank" class="tm-svg-icon__wrapper tm-social-icons__icon"><svg height="16" width="16" class="tm-svg-img tm-svg-icon"><title>Youtube</title> <use xlink:href="/img/social-icons-sprite.svg#social-logo-youtube"></use></svg></a><a href="https://zen.yandex.ru/habr" rel="nofollow noopener noreferrer" target="_blank" class="tm-svg-icon__wrapper tm-social-icons__icon"><svg height="16" width="16" class="tm-svg-img tm-svg-icon"><title>Яндекс Дзен</title> <use xlink:href="/img/social-icons-sprite.svg#social-logo-zen"></use></svg></a></div> <div class="v-portal" style="display:none;"></div> <button class="tm-footer__link"><!---->
+        Настройка языка
+      </button> <a href="https://habr.com/ru/about" class="tm-footer__link">
+        О сайте
+      </a> <a href="https://habr.com/ru/feedback/" class="tm-footer__link">
+        Техническая поддержка
+      </a> <!----> <a href="https://habr.com/berserk-mode-nope" class="tm-footer__link">
+        Вернуться на старую версию
+      </a> <div class="tm-footer-copyright"><span class="tm-copyright"><span class="tm-copyright__years">© 2006–2022 </span> <span class="tm-copyright__name">«<a href="https://company.habr.com/" rel="noopener" target="_blank" class="tm-copyright__link">Habr</a>»</span></span></div></div></div></div> <!----> <!----></div> <div class="vue-portal-target"><!----></div></div>
+
+<script src="./Покупка аккаунта нетфликс _files/chunk-vendors.4fd3519b.js.Без названия" defer=""></script><script src="./Покупка аккаунта нетфликс _files/page-article.877ff13f.js.Без названия" defer=""></script><script src="./Покупка аккаунта нетфликс _files/page-article_sandbox_user-articles-subpages.d9b13fe9.js.Без названия" defer=""></script><script src="./Покупка аккаунта нетфликс _files/app.f7efe64f.js.Без названия" defer=""></script>
+
+
+
+    <script async="" src="./Покупка аккаунта нетфликс _files/js"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+    </script>
+  
+  <script type="text/javascript">
+    (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+    m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+    (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+
+    ym(24049213, "init", {
+      defer:true,
+      trackLinks:true,
+      accurateTrackBounce:true,
+      webvisor:false,
+    });
+  </script>
+  <noscript>
+    <div>
+      <img src="https://mc.yandex.ru/watch/24049213" style="position:absolute; left:-9999px;" alt="" />
+    </div>
+  </noscript>
+  
+    <script type="text/javascript">
+      window.addEventListener('load', function () {
+        setTimeout(() => {
+          const img = new Image();
+          img.src = 'https://vk.com/rtrg?p=VK-RTRG-421343-57vKE';
+        }, 0);
+      });
+    </script>
+  
+<script src="./Покупка аккаунта нетфликс _files/ads.js.Без названия" onload="window[&#39;zhY4i4nJ9K&#39;] = true"></script><div id="K9Jn4i4Yhz" style="display: none;"></div>
+
+
+<div><div><div class="Vue-Toastification__container top-left"></div></div><div><div class="Vue-Toastification__container top-center"></div></div><div><div class="Vue-Toastification__container top-right"></div></div><div><div class="Vue-Toastification__container bottom-left"></div></div><div><div class="Vue-Toastification__container bottom-center"></div></div><div><div class="Vue-Toastification__container bottom-right"></div></div></div></body><grammarly-desktop-integration data-grammarly-shadow-root="true"></grammarly-desktop-integration></html>
