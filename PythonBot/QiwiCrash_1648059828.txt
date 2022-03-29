@@ -1,0 +1,50 @@
+####################################################
+###################### STEP 1 ######################
+####################################################
+
+R-URL: https://api.qiwi.com/partner/bill/v1/bills/[(1,%20221635779,%20'WhiteApfel-PyQiwiP2P-05812895-398')]
+URL: https://api.qiwi.com/partner/bill/v1/bills/[(1,%20221635779,%20'WhiteApfel-PyQiwiP2P-05812895-398')]
+Code: 404 Not Found
+Method: GET
+
+##################### REQUEST ######################
+Headers:
+
+Host:           api.qiwi.com
+Accept:         */*
+Accept-Encoding: gzip, deflate, br
+Connection:     keep-alive
+User-Agent:     python-httpx/0.22.0
+Content-Type:   application/json
+Authorization:  Bearer eyJ2ZXJzaW9uIjoiUDJQIiwiZGF0YSI6eyJwYXlpbl9tZXJjaGFudF9zaXRlX3VpZCI6ImVvZWVwYS0wMCIsInVzZXJfaWQiOiI3OTE4OTY3ODY1MyIsInNlY3JldCI6IjBkNWY2ZWIyYmQ2ZmJkYjM5MjhiMjM4NWMwM2U5YjlmYThkYzg1M2FkMmVhMzE3YWVkNzA0NTQ4OWY2YjhmMDAifX0=
+
+########### CONTENT ############
+
+######### END CONTENT ##########
+
+##################### RESPONSE #####################
+
+Headers:
+
+Server:         nginx
+Date:           Wed, 23 Mar 2022 18:23:48 GMT
+Content-Type:   application/json;charset=utf-8
+Content-Length: 172
+Connection:     keep-alive
+X-B3-SpanId:    62c32c697c1761bb
+X-B3-SpanId:    b851ac1ab9b16e58
+Cache-Control:  no-cache, no-store
+X-Edge-Proxied-Response: true
+Expires:        Thu, 01 Jan 1970 00:00:00 GMT
+X-Content-Type-Options: nosniff
+Strict-Transport-Security: max-age=31536000
+X-B3-ParentSpanId: 0c0cb0a9a7c4e149
+X-B3-TraceId:   932b54c1ce2b8e08
+content-encoding: gzip
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+
+########### CONTENT ############
+{"serviceName":"invoicing-api","errorCode":"api.invoice.not.found","description":"Invoice not found","userMessage":"Invoice not found","dateTime":"2022-03-23T21:23:48.549+03:00","traceId":"932b54c1ce2b8e08"}
+######### END CONTENT ##########
+
