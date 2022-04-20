@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "smart_time",
+    "slug": "smart_time",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
