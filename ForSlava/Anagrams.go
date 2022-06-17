@@ -1,32 +1,25 @@
 package main
 
-import (
-	"fmt"
-)
-
-func Count(word string) string { //counting sort, works for O(m), where m is the size pf the word
-	alph := make([]int, 26)
+func Count(word string) string { //counting sort, works for O(m), where m is the size of the word
+	alphabet := make([]int, 26)  //array for storing the number of letters
 	for _, x := range word {
-		alph[x-97]++
+		alphabet[x-97]++        //counting the number of letters in the word
 	}
-	var ans string
-	for i, v := range alph {
-		for j := 0; j < v; j++{
-			ans += string(i+97)
+	var answer string
+	for key, value := ra nge alph {
+		for tmp := 0; j < value; tmp++{
+			answer += string(rune(key+97)) //joining the letters together to get the sorted word
 		}
 	}
-	return ans
+	return answer
 }
 
 
-
-func main() {
-	strs := [...]string{"eat", "tea", "tan", "ate", "nat", "bat"}
-    an := make(map[string][]string)
-	for _, v := range strs {
-		tmp := Count(v)
-		an[tmp] = append(an[tmp], v)
+func anag(givenStr []string) map[string][]string{
+    ans := make(map[string][]string) //a map where the key is the sorted word, and values are the words that make this sorting word
+	for _, value := range givenStr {
+		tmp := Count(value)
+		ans[tmp] = append(ans[tmp], value)
 	}
-    fmt.Println(an)//the output could be different, but I think this way it fully demonstrates the result of the code
-}
+    return ans
 //#final complexity is O(n*m), where n is the list size and m is the words length
